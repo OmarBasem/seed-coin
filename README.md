@@ -2,7 +2,7 @@
 
 This is a demo project of a crowdfunding platform, built using React, Next.js, TypeScript, and Solidity.
 
-https://github.com/user-attachments/assets/507470ec-508f-45a5-8bb9-a33aff40e660
+https://github.com/user-attachments/assets/052f9253-8b63-4869-a9fb-b3974d26c6a1
 
 ## Setup
 
