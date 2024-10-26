@@ -2,6 +2,8 @@
 
 This is a demo project of a crowdfunding platform, built using React, Next.js, TypeScript, and Solidity.
 
+https://github.com/user-attachments/assets/507470ec-508f-45a5-8bb9-a33aff40e660
+
 ## Setup
 
 1. Git clone: `git clone git@github.com:OmarBasem/seed-coin.git && cd seed-coin`
