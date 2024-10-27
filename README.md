@@ -1,6 +1,6 @@
 # Seed Coin
 
-This is a demo project of a crowdfunding platform, built using React, Next.js, TypeScript, and Solidity.
+This is a small project of a crowdfunding platform, built using React, Next.js, TypeScript, and Solidity.
 
 https://github.com/user-attachments/assets/052f9253-8b63-4869-a9fb-b3974d26c6a1
 
